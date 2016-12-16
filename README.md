@@ -3,12 +3,16 @@ Web Application Development Project
 
 This project was developed using XAMPP.
 
-To install website first Download the Module website.zip folder from Gthub and unzip it.
+First download the Final_Project from github.It will download to the download folder as Final_Project-master.zip
+extract the files from Final_Project-master.zip to the Final_Project-master folder
 
-Place the module website folder into the htdocs folder in  XAMPP.
+In the Final_Project-master folder there is the Module website.zip folder. extract the files from this folder.
+
+Inside the extracted "module website" folder there is another folder called "Module website" copy this folder and
+place the extracted "Module website" folder into the "htdocs" folder in  XAMPP.
 
 
-Then download module database folder. in the folder are two databases register.sql and web_apps.sql.
+There are two sql files in the  module database folder, register.sql and web_apps.sql.
 Using MySQL create a database called register and import the tables and data using the register.sql file.
 
 Using MySQL create a database called web_apps and import the tables and data using the web_apps.sql file.
