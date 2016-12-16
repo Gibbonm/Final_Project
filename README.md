@@ -13,6 +13,7 @@ place the extracted "Module website" folder into the "htdocs" folder in  XAMPP.
 
 
 There are two sql files in the  module database folder, register.sql and web_apps.sql.
+
 Using MySQL create a database called register and import the tables and data using the register.sql file.
 
 Using MySQL create a database called web_apps and import the tables and data using the web_apps.sql file.
