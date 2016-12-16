@@ -13,9 +13,4 @@ Using MySQL create a database called register and import the tables and data usi
 
 Using MySQL create a database called web_apps and import the tables and data using the web_apps.sql file.
 
-
-
-
-Next navagate to the htdocs folder in XAMPP an paste the Module Website folder in the htdocs folder. 
-
-Next the database must be imported
+Using the Browser navagate to the following address http://localhost/Module Website/module_website.html 
