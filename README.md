@@ -17,4 +17,7 @@ Using MySQL create a database called register and import the tables and data usi
 
 Using MySQL create a database called web_apps and import the tables and data using the web_apps.sql file.
 
+In order for the MySql database to work correctly ensure that the 'username' is set to 'root'
+the 'host' is set to localhost an that the 'password' is empty.
+
 Using the Browser navagate to the following address http://localhost/Module Website/module_website.html 
